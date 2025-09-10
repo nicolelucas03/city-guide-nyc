@@ -31,3 +31,6 @@ A simple, responsive city guide built with pure HTML and CSS. This was one of my
 
 ### Reflections :brain:
 This project helped me get comfortable writing code from scratch and thinking through visual structure. It also sparked my interest in how design and development intersect on the web. 
+
+### Live Demo :rocket: 
+You can check out the site deployed using [GitHub Pages]( https://nicolelucas03.github.io/city-guide-nyc/)
