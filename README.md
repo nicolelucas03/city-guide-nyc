@@ -16,18 +16,18 @@ A simple, responsive city guide built with pure HTML and CSS. This was one of my
 * Learn about web typography and spacing
 * Build confidence working without templates or libraries
 
-### Features 
+### Features :city_sunset:
 - Landing Page with hero image and welcome image
 * Neighborhoods Section featuring a few popular NYC areas
 * Top landamarks with descriptions and images
   
 ### Screenshots :camera:
 
-### Future Improvements
+### Future Improvements :pushpin:
 - Add interactice features using JavaScript (e.g. filtering neighborhoods, lightbox for images)
 * Include a Google Maps embed or interactive map section
 * Add accessibility improvements (ARIA labels, tab navigation)
 * Explore adding SASS or CSS variables for better maintainability
 
-### Reflections 
+### Reflections :brain:
 This project helped me get comfortable writing code from scratch and thinking through visual structure. It also sparked my interest in how design and development intersect on the web. 
